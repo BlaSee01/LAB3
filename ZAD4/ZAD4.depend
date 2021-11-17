@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637165967 source:c:\users\user\desktop\moje\studia\wdi - Æwiczenia\lab3\zad4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
